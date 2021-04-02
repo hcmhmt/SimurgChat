@@ -1,2 +1,3 @@
 SimurgChat
-Individual Java-Socket chat project.
+<p>Individual Java-Socket chat project.</p>
+
